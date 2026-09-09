@@ -184,7 +184,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@raycast/api": "^1.104.17"
+    "@raycast/api": "^2.2.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.2.0",
