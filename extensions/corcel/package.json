@@ -144,7 +144,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.70.3",
-    "@raycast/utils": "^1.14.0",
+    "@raycast/utils": "^2.3.1",
     "dayjs": "^1.11.10",
     "eventsource-parser": "^1.1.2",
     "node-fetch": "^3.3.2"
