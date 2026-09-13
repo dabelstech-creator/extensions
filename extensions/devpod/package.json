@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.82.4",
-    "@raycast/utils": "^1.16.3"
+    "@raycast/utils": "^2.3.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
@@ -49,6 +49,6 @@
   },
   "overrides": {
     "minimatch": "^10.0.1",
-    "picomatch": "^4.0.4"
+    "picomatch": "^4.0.7"
   }
 }
