@@ -42,7 +42,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.22"
+    "@raycast/api": "^2.5.3"
   },
   "overrides": {
     "@types/react": "18.2.27",

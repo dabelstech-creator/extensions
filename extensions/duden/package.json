@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.10",
+    "@raycast/api": "^2.5.3",
     "cheerio": "^1.0.0"
   },
   "devDependencies": {

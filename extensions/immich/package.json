@@ -78,7 +78,7 @@
   ],
   "dependencies": {
     "@immich/sdk": "^2.2.3",
-    "@raycast/api": "^1.103.6",
+    "@raycast/api": "^2.5.3",
     "@raycast/utils": "^2.2.2"
   },
   "devDependencies": {
