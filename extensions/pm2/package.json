@@ -82,7 +82,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.15",
+    "@raycast/api": "^2.5.3",
     "@raycast/utils": "^2.2.4",
     "date-fns": "^4.1.0",
     "lodash": "^4.18.1",
