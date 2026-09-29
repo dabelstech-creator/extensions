@@ -44,8 +44,8 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.103.3",
-    "exifreader": "^4.22.1",
+    "@raycast/api": "^2.5.3",
+    "exifreader": "^4.41.1",
     "stringify-object": "^6.0.0"
   },
   "devDependencies": {

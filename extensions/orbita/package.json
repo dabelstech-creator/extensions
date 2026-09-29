@@ -23,7 +23,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.5",
+    "@raycast/api": "^2.5.3",
     "@raycast/utils": "^2.2.2",
     "javascript-time-ago": "^2.5.12",
     "rss-parser": "^3.13.0"
