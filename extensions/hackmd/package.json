@@ -941,7 +941,7 @@
   },
   "dependencies": {
     "@hackmd/api": "2.5.0",
-    "@raycast/api": "^1.103.3",
+    "@raycast/api": "^2.5.3",
     "@raycast/utils": "^2.2.1",
     "mdast-util-to-markdown": "^2.1.2",
     "minisearch": "^7.2.0",

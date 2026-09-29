@@ -18,7 +18,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.94.3",
+    "@raycast/api": "^2.5.3",
     "@raycast/utils": "^1.17.0",
     "node-csfd-api": "^5.7.0"
   },
