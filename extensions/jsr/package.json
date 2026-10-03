@@ -481,7 +481,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.17",
+    "@raycast/api": "^2.6.2",
     "@raycast/utils": "^2.2.4",
     "cheerio": "^1.2.0",
     "date-fns": "^4.1.0"

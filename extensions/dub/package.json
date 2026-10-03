@@ -163,10 +163,10 @@
     ]
   },
   "dependencies": {
-    "@raycast/api": "^1.94.0",
+    "@raycast/api": "^2.6.2",
     "@raycast/utils": "^1.16.0",
     "dub": "^0.61.5",
-    "undici": "^6.19.2"
+    "undici": "^6.28.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",

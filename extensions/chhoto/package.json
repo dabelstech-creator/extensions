@@ -39,7 +39,7 @@
 		}
 	],
 	"dependencies": {
-		"@raycast/api": "^1.99.3",
+		"@raycast/api": "^2.6.2",
 		"@raycast/utils": "^1.17.0",
 		"ofetch": "^1.4.1"
 	},
