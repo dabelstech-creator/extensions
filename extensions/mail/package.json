@@ -207,14 +207,14 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.94.0",
+    "@raycast/api": "^2.6.2",
     "@raycast/utils": "^1.19.1",
     "execa": "^9.5.2",
     "got": "^14.4.6",
     "javascript-time-ago": "^2.5.10",
     "json2md": "^1.13.0",
     "juice": "^9.1.0",
-    "mailparser": "^3.9.4",
+    "mailparser": "^3.9.33",
     "mime-types": "^2.1.35",
     "plist": "^3.1.0",
     "string-strip-html": "^13.4.12",
