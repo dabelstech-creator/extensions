@@ -27,7 +27,7 @@
     "date-fns": "^3.6.0",
     "hono": "^4.12.27",
     "swr": "^2.2.5",
-    "undici": "^6.24.0"
+    "undici": "^6.28.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.6",
