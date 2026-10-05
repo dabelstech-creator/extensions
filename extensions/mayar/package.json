@@ -51,7 +51,7 @@
     "@raycast/utils": "1.0.3",
     "axios": "^1.18.0",
     "javascript-time-ago": "2.5.9",
-    "moment": "2.29.4"
+    "moment": "2.31.0"
   },
   "devDependencies": {
     "@types/node": "^18.8.3",
