@@ -50,7 +50,7 @@
   "dependencies": {
     "@raycast/api": "^1.104.17",
     "@raycast/utils": "^2.2.4",
-    "axios": "^1.18.0"
+    "axios": "^1.20.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.1.1",
