@@ -83,7 +83,7 @@
   "dependencies": {
     "@raycast/api": "^1.103.0",
     "@raycast/utils": "^1.17.0",
-    "axios": "^1.8.4",
+    "axios": "^1.20.0",
     "axios-rate-limit": "^1.9.0"
   },
   "devDependencies": {
