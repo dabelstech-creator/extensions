@@ -92,7 +92,7 @@
   "dependencies": {
     "@raycast/api": "^1.102.5",
     "@raycast/utils": "^2.2.1",
-    "axios": "^1.11.0"
+    "axios": "^1.20.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.0.4",
